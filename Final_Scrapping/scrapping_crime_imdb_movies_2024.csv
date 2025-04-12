@@ -1,0 +1,974 @@
+Title,Rating,Votes,Duration,Genre
+1. Trap,5.8, (135K),1h 45m,Crime
+2. Riff Raff,5.7, (2.6K),1h 43m,Crime
+3. Longlegs,6.6, (183K),1h 41m,Crime
+4. Pushpa: The Rule - Part 2,6.1, (55K),3h 21m,Crime
+5. The Order,6.8, (40K),1h 56m,Crime
+6. Emilia Pérez,5.4, (87K),2h 12m,Crime
+7. Juror #2,7.0, (95K),1h 54m,Crime
+8. The Beekeeper,6.3, (155K),1h 45m,Crime
+9. Carry-On,6.5, (162K),1h 59m,Crime
+10. MaXXXine,6.3, (69K),1h 43m,Crime
+11. Despicable Me 4,6.2, (64K),1h 34m,Crime
+12. Wolfs,6.5, (81K),1h 48m,Crime
+13. The Crow,4.7, (34K),1h 51m,Crime
+14. Rebel Ridge,6.8, (87K),2h 11m,Crime
+15. Lucky Baskhar,8.0, (31K),2h 28m,Crime
+16. Bad Boys: Ride or Die,6.5, (99K),1h 55m,Crime
+17. Marco,6.9, (21K),2h 25m,Crime
+18. Freaky Tales,7.0, (616),1h 46m,Crime
+19. The Girl with the Needle,7.5, (13K),2h 3m,Crime
+20. Love Lies Bleeding,6.6, (56K),1h 44m,Crime
+21. The Seed of the Sacred Fig,7.6, (13K),2h 47m,Crime
+22. Misericordia,6.9, (1.9K),1h 44m,Crime
+23. Santosh,7.0, (1.8K),2h 8m,Crime
+24. Monkey Man,6.8, (91K),2h 1m,Crime
+25. In Youth We Trust,6.8, (360),2h 12m,Crime
+26. The Instigators,6.2, (37K),1h 41m,Crime
+27. Greedy People,6.2, (11K),1h 52m,Crime
+28. Sleeping Dogs,6.2, (21K),1h 50m,Crime
+29. Beating Hearts,7.0, (4.4K),2h 46m,Crime
+30. Brothers,5.4, (13K),1h 29m,Crime
+31. Lift,5.5, (49K),1h 47m,Crime
+32. Killer Heat,5.6, (13K),1h 35m,Crime
+33. Maharaja,8.4, (66K),2h 21m,Crime
+34. Long Gone Heroes,5.2, (1K),1h 41m,Crime
+35. Force of Nature: The Dry 2,5.8, (6.9K),2h,Crime
+36. Beverly Hills Cop: Axel F,6.4, (81K),1h 58m,Crime
+37. Twilight of the Warriors: Walled In,7.0, (9.3K),2h 6m,Crime
+38. Absolution,5.2, (7.7K),1h 52m,Crime
+39. Armor,3.5, (3.7K),1h 29m,Crime
+40. Boneyard,4.1, (4.9K),1h 36m,Crime
+41. The Silent Hour,6.1, (7.3K),1h 39m,Crime
+42. Trigger Warning,4.6, (19K),1h 46m,Crime
+43. The Calendar Killer,5.4, (4.1K),1h 37m,Crime
+44. The Shadow Strays,6.5, (9K),2h 24m,Crime
+45. Hitpig,5.1, (902),1h 26m,Crime
+46. Blackwater Lane,4.6, (1.8K),1h 48m,Crime
+47. Mea Culpa,4.2, (7K),2h,Crime
+48. The Thicket,5.8, (3K),1h 48m,Crime
+49. Megamind vs. The Doom Syndicate,2.5, (5.5K),1h 23m,Crime
+50. The Unholy Trinity,7.9, (49),1h 33m,Crime
+51. Baby John,5.4, (17K),2h 39m,Crime
+52. Jönssonligan kommer tillbaka,5.9, (1.3K),1h 44m,Crime
+53. Dead Sea,5.3, (5.3K),1h 28m,Crime
+54. Damaged,4.7, (7.2K),1h 37m,Crime
+55. Depravity,4.3, (967),1h 57m,Crime
+56. Lake George,6.3, (917),1h 58m,Crime
+57. Barron's Cove,8.2, (28),1h 56m,Crime
+58. The Shameless,5.7, (211),1h 54m,Crime
+59. The Thundermans Return,5.0, (1.8K),1h 10m,Crime
+60. Inside,7.0, (226),1h 44m,Crime
+61. Trouble,6.2, (6.7K),1h 38m,Crime
+62. Detained,4.9, (1.5K),1h 37m,Crime
+63. Rats!,7.4, (112),1h 25m,Crime
+"64. I, the Executioner",6.3, (1.7K),1h 58m,Crime
+65. Sector 36,7.1, (25K),2h 3m,Crime
+66. Colors of Evil: Red,6.4, (8.4K),1h 51m,Crime
+67. Code 8: Part II,5.7, (16K),1h 40m,Crime
+68. Jigra,6.0, (23K),2h 33m,Crime
+69. Singham Again,4.8, (75K),2h 24m,Crime
+70. Laws of Man,4.4, (436),1h 38m,Crime
+71. The Roundup: Punishment,6.6, (5.2K),1h 49m,Crime
+72. Viduthalai Part 2,7.9, (16K),2h 50m,Crime
+73. Loverboy: Emoties Uit,6.4, (495),1h 38m,Crime
+74. Strictly Confidential,2.8, (839),1h 34m,Crime
+75. Badland Hunters,5.9, (12K),1h 47m,Crime
+76. Drugstore June,5.4, (1.7K),1h 31m,Crime
+77. Ride,5.9, (387),1h 54m,Crime
+78. Do Patti,6.4, (68K),2h 6m,Crime
+79. Sikandar Ka Muqaddar,6.0, (24K),2h 22m,Crime
+80. Justice,6.3, (3.8K),1h 53m,Crime
+81. Bogota: City of the Lost,5.4, (1.9K),1h 48m,Crime
+82. King Ivory,7.3, (63),2h 10m,Crime
+83. Marmalade,6.3, (3.5K),1h 39m,Crime
+84. The Quiet Ones,6.4, (646),1h 50m,Crime
+85. Officer Black Belt,6.8, (8.1K),1h 48m,Crime
+86. Maharaj,6.5, (15K),2h 11m,Crime
+87. Pani,6.9, (2.9K),2h 23m,Crime
+88. The Soul Eater,5.9, (2.5K),1h 48m,Crime
+89. Hellhound,4.3, (501),1h 43m,Crime
+90. Harbin,6.4, (552),1h 48m,Crime
+91. The Courier,6.0, (4.4K),1h 41m,Crime
+92. Duchess,4.6, (1.3K),1h 54m,Crime
+93. Here Now,4.9, (389),1h 58m,Crime
+94. Dead Mail,6.7, (294),1h 46m,Crime
+95. Darkness of Man,4.8, (3.1K),1h 49m,Crime
+96. Lover Stalker Killer,7.0, (13K),1h 30m,Crime
+97. What Jennifer Did,6.1, (11K),1h 27m,Crime
+98. Bougainvillea,6.4, (3.1K),2h 18m,Crime
+99. Cult Killer,4.8, (2.7K),1h 45m,Crime
+100. The Clean Up Crew,4.1, (1.1K),1h 35m,Crime
+101. Broken Rage,6.1, (1.3K),1h 2m,Crime
+102. El Jockey,6.5, (1.6K),1h 36m,Crime
+103. Freedom,5.9, (1.4K),1h 50m,Crime
+104. Crescent City,3.9, (1.3K),1h 43m,Crime
+105. Reputation,9.3, (8),1h 23m,Crime
+106. Anweshippin Kandethum,7.4, (10K),2h 22m,Crime
+107. City Hunter,6.3, (5.6K),1h 42m,Crime
+108. Kaulayaw,4.1, (158),1h 35m,Crime
+109. The Girl Who Wore Yellow Lace,4.6, (21),1h 22m,Crime
+110. To a Land Unknown,7.3, (462),1h 45m,Crime
+111. Guns & Moses,8.1, (43),1h 34m,Crime
+112. First Shift,4.5, (2K),1h 29m,Crime
+113. The Kingdom,6.9, (708),1h 52m,Crime
+114. A Brothers Bond,5.6, (37),1h 43m,Crime
+115. The Trainer,7.0, (53),1h 35m,Crime
+116. Ulajh,6.0, (24K),2h 30m,Crime
+117. Belle,5.9, (54),1h 40m,Crime
+118. Shoutai,6.9, (535),2h,Crime
+119. 5lbs of Pressure,5.3, (1.6K),1h 51m,Crime
+120. Thalavan,7.2, (4.6K),2h 11m,Crime
+121. Maldoror,7.0, (579),2h 35m,Crime
+122. Strangers,4.3, (385),1h 46m,Crime
+123. Compulsion,6.6, (11),1h 34m,Crime
+124. How to Rob a Bank,6.6, (4.2K),1h 28m,Crime
+125. Dengeler,5.4, (174),2h 3m,Crime
+126. Hijack 1971,6.8, (3.3K),1h 40m,Crime
+127. The Sabarmati Report,6.4, (24K),2h 7m,Crime
+128. Nice Girls,4.2, (1.2K),1h 32m,Crime
+129. Wanted Man,4.8, (2.6K),1h 25m,Crime
+130. Faultline,5.7, (89),1h 32m,Crime
+131. Papa,7.5, (318),2h 11m,Crime
+132. Boundless,5.6, (1.9K),2h 1m,Crime
+133. Vettaiyan,7.0, (39K),2h 43m,Crime
+134. Daredevil vs Punisher,N/A,N/A,1h 23m,Crime
+135. Sicilian Letters,6.1, (650),2h 2m,Crime
+136. Revolver,5.4, (838),1h 54m,Crime
+137. Una ballena,6.0, (71),1h 48m,Crime
+138. Toofan,7.3, (7.5K),2h 25m,Crime
+139. (Pri)sons,5.1, (267),1h 40m,Crime
+140. Bloodline Killer,3.8, (4.4K),1h 45m,Crime
+141. In Her Place,6.2, (1.5K),1h 36m,Crime
+142. Roadkill,3.7, (677),1h 30m,Crime
+143. The Lockdown,4.3, (603),1h 57m,Crime
+144. Dead Wrong,3.8, (256),1h 44m,Crime
+145. Golam,7.2, (5.5K),2h,Crime
+146. Young Lion of the West,5.2, (108),1h 33m,Crime
+147. Ferry 2,5.6, (3.7K),1h 34m,Crime
+148. The Park Maniac,4.8, (1.6K),1h 43m,Crime
+149. Two to One,6.1, (717),1h 56m,Crime
+150. Kingsmen,6.4, (47),1h 12m,Crime
+151. Jersey Bred,4.4, (70),1h 32m,Crime
+152. Raayan,6.5, (11K),2h 25m,Crime
+153. Saripodhaa Sanivaaram,7.0, (9K),2h 46m,Crime
+154. GTMax,5.0, (1.2K),1h 40m,Crime
+155. Savi,6.2, (35K),2h 6m,Crime
+156. Untamed Royals,4.6, (628),1h 39m,Crime
+157. Jailbreak: Love on the Run,6.4, (3.1K),1h 28m,Crime
+158. Serpent's Path,5.7, (279),1h 52m,Crime
+159. Peg O' My Heart,6.2, (107),1h 37m,Crime
+160. Biggest Heist Ever,6.1, (1.4K),1h 25m,Crime
+161. The Birds Who Fear Death,9.2, (72),1h 42m,Crime
+162. Phir Aayi Hasseen Dillruba,5.8, (6.8K),2h 12m,Crime
+163. Last Known Location,6.3, (1.4K),1h 50m,Crime
+164. Tillu Square,6.6, (3.4K),2h 17m,Crime
+165. La Familia,6.8, (42),N/A,Crime
+166. A Place Called Silence,6.4, (1.2K),1h 59m,Crime
+167. Operation Raavan,8.0, (1.2K),2h 27m,Crime
+168. A Bronx Tale: The Original One Man Show,8.2, (15),N/A,Crime
+169. Mission: Cross,6.1, (2.6K),1h 45m,Crime
+170. The Pee Pee Poo Poo Man,8.1, (18),1h 19m,Crime
+171. Ma Este Gyilkolunk,5.1, (567),N/A,Crime
+172. Citizen of a Kind,6.7, (787),1h 54m,Crime
+173. Auron Mein Kahan Dum Tha,6.6, (41K),2h 30m,Crime
+174. The Smile Man,7.6, (1.5K),2h 2m,Crime
+175. Kahar: Kapla High Council,6.9, (448),1h 42m,Crime
+176. The Plot,4.8, (373),1h 40m,Crime
+177. Dhakshina,6.5, (5.2K),1h 47m,Crime
+178. Anand Sreebala,6.6, (2.4K),2h 14m,Crime
+179. Bhakshak,7.2, (7.1K),2h 14m,Crime
+180. Sorgavaasal,6.6, (1.3K),2h 18m,Crime
+181. She's Got No Name,7.0, (46),2h 30m,Crime
+182. Metamorfosi dell'essere,8.0, (70),1h 45m,Crime
+183. Scorched Earth,6.7, (530),1h 41m,Crime
+184. The Waterboyz,7.8, (85),1h 29m,Crime
+185. The Kingdom,7.9, (88),2h 13m,Crime
+"186. Rajagunj: Pooja, Sir",6.3, (735),1h 55m,Crime
+187. Amish Affair,5.5, (200),1h 26m,Crime
+188. Baby Assassins: Nice Days,7.3, (289),1h 43m,Crime
+189. They Called Him Mostly Harmless,5.9, (3.2K),1h 29m,Crime
+190. Bermondsey Tales: Fall of the Roman Empire,4.4, (180),1h 39m,Crime
+191. Abraham Ozler,6.5, (4.2K),2h 23m,Crime
+192. Nunakuzhi,6.8, (3K),2h 5m,Crime
+193. The Truth vs. Alex Jones,7.5, (3K),2h 1m,Crime
+194. Chapter 51,N/A,N/A,N/A,Crime
+195. Dirty Ice Cream,4.4, (116),47m,Crime
+196. The Actor,3.3, (725),2h 8m,Crime
+197. A Gangster's Kiss,4.9, (45),1h 21m,Crime
+198. Plastic Guns,6.3, (606),1h 35m,Crime
+199. Cookster: The Darkest Days,8.2, (40),1h 59m,Crime
+200. Un homme en fuite,5.4, (153),1h 46m,Crime
+201. 10 Days of a Curious Man,5.7, (1.2K),1h 50m,Crime
+202. Borderless Fog,5.2, (1.3K),1h 50m,Crime
+203. Svemu dodje kraj,6.7, (263),1h 29m,Crime
+204. Team of Two,5.0, (108),N/A,Crime
+205. Crisis Negotiators,6.7, (706),2h,Crime
+206. Matka,4.7, (583),2h 36m,Crime
+207. Tumbadores,5.0, (61),N/A,Crime
+208. The Epidemic,5.8, (69),1h 35m,Crime
+209. Le Mohican,7.0, (145),1h 27m,Crime
+210. The Final: Attack on Wembley,6.3, (2.4K),1h 22m,Crime
+211. High Forces,5.7, (521),1h 59m,Crime
+212. Siren,6.4, (2.9K),2h 34m,Crime
+213. No Cap,5.8, (36),1h 48m,Crime
+214. Rautu Ka Raaz,6.3, (2K),1h 54m,Crime
+215. Unspoken,8.2, (47),2h,Crime
+216. Desperado,6.0, (141),1h 40m,Crime
+217. Chris Brown: A History of Violence,5.4, (311),1h 22m,Crime
+218. Dutch II: Angel's Revenge,6.7, (85),N/A,Crime
+219. Gumasthan,5.8, (500),2h 25m,Crime
+220. Lady Scorpions,3.6, (366),1h 41m,Crime
+221. Nirangal Moondru,6.1, (530),2h 2m,Crime
+222. Sons of Rizk 3,6.7, (1.7K),2h 5m,Crime
+223. Cubic Zirconia,7.1, (65),N/A,Crime
+224. Passport,8.4, (8),N/A,Crime
+225. Harom Hara,7.7, (3K),2h 34m,Crime
+226. Love You to Debt,6.2, (754),2h 15m,Crime
+227. Treasures of Terror: Vol 1,4.3, (18),N/A,Crime
+228. Dirty Money,5.6, (113),1h 40m,Crime
+229. Go for Broke,5.7, (270),1h 55m,Crime
+230. Stealing Vows,N/A,N/A,2h,Crime
+231. Shakhahaari,7.5, (1.3K),2h 25m,Crime
+232. The Seven Sorrows of Mary,6.6, (31),1h 38m,Crime
+233. Conquer: Lahad Datu,6.7, (503),2h,Crime
+234. Diddy: Summit to Plummet,2.2, (200),1h,Crime
+235. Miséria,5.3, (100),1h 39m,Crime
+236. Quotation Gang Part 1,8.8, (20),1h 58m,Crime
+237. Sayara,5.7, (270),1h 38m,Crime
+238. Havnaa,7.3, (228),1h 50m,Crime
+239. ChiefsAholic: A Wolf in Chiefs Clothing,6.2, (371),2h 1m,Crime
+240. Nahir,4.7, (1.1K),2h 2m,Crime
+241. Poslednji strelac,5.5, (255),1h 30m,Crime
+242. Dead Man,5.1, (206),1h 49m,Crime
+243. Estômago II: O Poderoso Chef,5.8, (318),2h 11m,Crime
+244. Shu Si Yi Bo,6.6, (32),1h 31m,Crime
+245. Red,4.6, (96),1h 54m,Crime
+246. Passages of Nexus,5.9, (196),1h 48m,Crime
+247. Ballistic,2.3, (161),1h 35m,Crime
+248. Kurukku,6.6, (529),1h 49m,Crime
+249. Troll Factory,5.8, (465),1h 49m,Crime
+250. The Experts,6.2, (262),2h 1m,Crime
+251. The Shadow,6.5, (251),1h 30m,Crime
+252. Danger in the Dorm,5.0, (152),1h 26m,Crime
+253. Midas,4.6, (337),1h 25m,Crime
+254. Visfot,5.7, (1.1K),2h 10m,Crime
+255. Hovering Blade,6.1, (235),1h 47m,Crime
+256. Dracula: The Count's Kin,5.0, (44),N/A,Crime
+257. Nefarious,7.1, (55),1h 25m,Crime
+"258. MoviePass, MovieCrash",6.7, (2.8K),1h 36m,Crime
+259. The Dealer,8.2, (11),2h,Crime
+260. Jamalinte Punjiri,9.2, (162),N/A,Crime
+261. Mirza: Part 1 - Joker,6.8, (237),2h 45m,Crime
+262. Untold: The Murder of Air McNair,5.6, (2K),57m,Crime
+263. Bozji gnjev,7.2, (58),1h 51m,Crime
+"264. Hemet, or the Landlady Don't Drink Tea",4.3, (88),1h 29m,Crime
+265. 9 Windows,3.6, (307),1h 22m,Crime
+266. Samandar,7.6, (137),2h 52m,Crime
+267. Gini Avi Saha Gini Keli 2,7.4, (8),N/A,Crime
+268. Guess Who,4.8, (366),1h 33m,Crime
+269. Lóve 2,4.9, (67),N/A,Crime
+270. Prasanna Vadanam,6.6, (535),2h 26m,Crime
+271. Zebra,8.0, (3.2K),2h 44m,Crime
+272. The Mick and the Trick,5.0, (75),1h 36m,Crime
+273. Murder and Cocktails,4.0, (360),1h 28m,Crime
+274. Gold Boy,6.5, (126),2h 9m,Crime
+"275. LSD 2: Love, Sex Aur Dhokha 2",3.8, (2.8K),1h 59m,Crime
+276. Io e te dobbiamo parlare,4.2, (167),1h 35m,Crime
+277. Texas Twister,2.5, (157),1h 28m,Crime
+278. Oppa,8.5, (47),1h 24m,Crime
+279. Ghost Killer,7.1, (62),1h 45m,Crime
+280. Vivekam,8.2, (308),1h 44m,Crime
+281. Krista,5.6, (46),58m,Crime
+282. RTI,5.9, (26),2h 10m,Crime
+283. The Texas Cheerleader Murder Plot,5.0, (294),1h 40m,Crime
+284. Drive,5.6, (321),1h 30m,Crime
+285. Døde menn går på ski,5.4, (217),1h 29m,Crime
+286. Sattam En Kaiyil,8.0, (2.2K),2h 4m,Crime
+287. Satyabhama,5.9, (1.5K),2h 12m,Crime
+288. Prepare to Die,4.6, (232),1h 33m,Crime
+289. Killer Babes,3.5, (283),1h 34m,Crime
+290. The Heist,6.9, (2K),2h,Crime
+291. Suspect,4.5, (80),1h 34m,Crime
+292. Sheriff,6.9, (1.1K),2h 13m,Crime
+293. Silvio,3.0, (505),1h 54m,Crime
+294. The Shakedown,5.0, (305),1h 44m,Crime
+295. Blood and Black,8.1, (1.1K),1h 28m,Crime
+"296. Milk, Rice, and the Blood",9.0, (51),45m,Crime
+297. Bodiless,5.7, (1K),1h 30m,Crime
+298. Vares X,3.7, (116),1h 25m,Crime
+299. Breathe,8.8, (43),N/A,Crime
+300. They Turned Us Into Killers,2.8, (252),1h 26m,Crime
+301. Taxali Gate,6.6, (118),1h 35m,Crime
+302. S.I.T,7.9, (2.3K),1h 50m,Crime
+303. Silver Star,6.9, (15),1h 42m,Crime
+304. Double or Nothing,N/A,N/A,N/A,Crime
+305. Priyo Maloti,6.7, (175),1h 59m,Crime
+306. The Infallibles,4.8, (750),1h 39m,Crime
+307. Andhagan,6.7, (1.2K),2h 22m,Crime
+308. Vina: Before 7 Days,5.4, (578),1h 40m,Crime
+309. What Happens in Miami,4.3, (219),1h 30m,Crime
+310. Plea,6.9, (23),1h 28m,Crime
+311. Bhaje Vaayu Vegam,6.1, (550),2h 16m,Crime
+312. Mathu Vadalara 2,7.0, (1.6K),2h 19m,Crime
+313. Zabt,6.0, (19),N/A,Crime
+314. Fyre Rises,6.5, (321),1h 50m,Crime
+315. The Legend of the Vagabond Queen of Lagos,7.8, (31),1h 40m,Crime
+316. Protein,6.6, (61),1h 40m,Crime
+317. Bangkok Breaking: Heaven and Hell,5.8, (662),2h 26m,Crime
+318. Little Jaffna,6.9, (40),1h 40m,Crime
+319. Sentimentaaal,5.8, (972),2h 15m,Crime
+320. A Hateful Enemy,N/A,N/A,1h 16m,Crime
+321. Wannabe,4.6, (126),1h 42m,Crime
+322. Sinful Lies,8.0, (6),1h 5m,Crime
+323. Killerwood,6.8, (22),1h 24m,Crime
+324. The Star City Murders,4.1, (142),1h 19m,Crime
+325. Filthy Animals,7.3, (91),1h 36m,Crime
+326. Hustlers Take All,5.5, (80),1h 46m,Crime
+327. Mr. Bachchan,3.6, (5.3K),2h 30m,Crime
+328. Green Bones,7.7, (181),1h 36m,Crime
+329. Vrutos,8.4, (9),1h 40m,Crime
+330. Happy Birthday Luci,9.4, (56),N/A,Crime
+331. Perfect Blue,7.4, (5),N/A,Crime
+"332. Extraction, USA",7.4, (55),N/A,Crime
+333. Bangkok Dog,5.0, (142),1h 25m,Crime
+334. Saindhav,5.1, (1.6K),2h 18m,Crime
+335. The Desperate Chase,5.5, (57),1h 50m,Crime
+336. Where Is Gilgamesh?,9.0, (605),1h 30m,Crime
+337. Gangs of Godavari,5.0, (903),2h 45m,Crime
+338. Silence 2: The Night Owl Bar Shootout,6.2, (1.9K),2h 22m,Crime
+339. Bars,5.8, (23),2h 15m,Crime
+340. The Murder of Sandra Rivett,6.2, (144),1h 30m,Crime
+341. Octopus with Broken Arms,6.1, (199),1h 49m,Crime
+342. Kondal,5.4, (766),2h 27m,Crime
+343. Yalakunni,8.9, (166),2h 15m,Crime
+344. DNA,5.1, (210),2h 36m,Crime
+345. Kiss of the Con Queen,7.5, (27),1h 57m,Crime
+346. Bond of Justice: Kizuna Part I - Encounter,6.1, (17),1h 32m,Crime
+347. Oru Nodi,6.7, (503),2h 8m,Crime
+348. Bastar: The Naxal Story,6.4, (3.3K),2h 4m,Crime
+349. Formed Police Unit,4.6, (474),2h,Crime
+350. Rakshana,5.5, (1.1K),2h 19m,Crime
+351. Cursed in Baja,7.7, (20),1h 20m,Crime
+352. Road to Terzetto,7.4, (29),1h 36m,Crime
+353. The Best of Me,N/A,N/A,1h 29m,Crime
+354. The Moon Thieves,6.1, (241),1h 48m,Crime
+355. Suspicion,3.6, (206),1h 55m,Crime
+356. Nasha Jurm Aur Gangsters,6.9, (2.4K),2h 17m,Crime
+357. Ten Toes Down,8.0, (31),N/A,Crime
+358. Tòkunbò,3.9, (294),1h 53m,Crime
+359. Uno,8.7, (30),N/A,Crime
+360. Pathological: The Lies of Joran van der Sloot,6.5, (344),1h 33m,Crime
+361. Pattaya Heat,5.6, (222),1h 57m,Crime
+362. Piano Love,5.2, (13),1h 36m,Crime
+363. State of Silence,6.5, (109),1h 20m,Crime
+364. Shivam Bhaje,7.9, (3K),2h 1m,Crime
+365. Chameleon,5.8, (31),2h 13m,Crime
+366. Angry Squad: Civil Servants & Seven Swindlers,8.1, (37),2h,Crime
+367. Kingdom Reign,8.3, (36),1h 59m,Crime
+368. Remedy,4.1, (261),1h 22m,Crime
+369. Baba Yaga,N/A,N/A,N/A,Crime
+370. The Donor,9.0, (9),23m,Crime
+371. Nastupit leto,7.4, (20),1h 34m,Crime
+372. Breaking the Silence: The Maria Soledad Case,6.4, (516),1h 35m,Crime
+373. The Hostage,6.0, (10),N/A,Crime
+374. Hunt the Wicked,5.3, (108),1h 42m,Crime
+375. Hit List,5.5, (310),2h 5m,Crime
+376. Chitram Choodara,4.6, (15),2h 7m,Crime
+377. Take Good Care,N/A,N/A,1h 41m,Crime
+378. Cafe 404,7.1, (34),1h 33m,Crime
+379. Remember Us,6.2, (38),1h 36m,Crime
+380. Duffle Bag Boy,6.9, (57),N/A,Crime
+381. Deadly Ruphoria,6.3, (32),N/A,Crime
+382. Second Life,6.8, (47),1h 45m,Crime
+383. Youn'G,8.9, (49),N/A,Crime
+384. Reloaded 2,8.0, (1K),45m,Crime
+385. Hain,2.9, (45),1h 35m,Crime
+386. The Worst Man in London,5.7, (146),2h 7m,Crime
+387. Rob N Roll,6.1, (1.5K),1h 38m,Crime
+388. Raktaksha,8.4, (1.4K),1h 58m,Crime
+389. Money No Enough 3,6.0, (264),2h 18m,Crime
+390. Mani nude,6.5, (19),N/A,Crime
+391. Searching for Amani,7.9, (31),1h 20m,Crime
+392. Case of Kondana,5.8, (577),2h 23m,Crime
+393. You Can Only Blink Once,N/A,N/A,29m,Crime
+394. Hotel Underground,7.4, (64),N/A,Crime
+395. Supplier Shankara,9.3, (70),2h 43m,Crime
+396. Kaliyugam Pattanamlo,6.7, (2.2K),2h 30m,Crime
+397. Thirumbipaar,5.9, (239),1h 41m,Crime
+398. One Last Time,7.0, (15),1h 22m,Crime
+399. Treasures of Terror: Vol 2,N/A,N/A,N/A,Crime
+400. Assault in Progress,7.0, (16),N/A,Crime
+401. All That Glitters,8.0, (36),N/A,Crime
+402. The Unwavering Brotherhood,5.3, (77),1h 34m,Crime
+403. Bheema,5.8, (947),2h 28m,Crime
+404. Abudeka Is Back,5.3, (34),2h,Crime
+405. Dickweed,7.1, (36),1h 30m,Crime
+406. Chor Dil,7.4, (37),2h 15m,Crime
+407. Murder in a Teacup,6.3, (147),1h 33m,Crime
+408. Cry of Silence,6.2, (71),1h 56m,Crime
+409. Anyone Else But Me,7.0, (153),1h 35m,Crime
+410. Bury Him,7.4, (13),1h 28m,Crime
+411. Dandupalayam,5.9, (1.3K),2h 17m,Crime
+412. Swing Bout,8.7, (174),1h 30m,Crime
+413. Dream Team,5.2, (59),1h 31m,Crime
+414. Unknown Caller,7.0, (29),1h 3m,Crime
+415. Housekeeping,6.0, (41),1h 38m,Crime
+416. We Run These Streets,N/A,N/A,1h 24m,Crime
+417. The Bodyguard,6.6, (29),1h 27m,Crime
+418. Uninvited,6.8, (71),1h 33m,Crime
+419. Illusions for Sale: The Rise and Fall of Generation Zoe,6.2, (639),1h 47m,Crime
+420. The Hitmen,N/A,N/A,1h 24m,Crime
+421. Yevam,6.1, (1.5K),2h 3m,Crime
+422. Holiday Hold-Up,5.7, (68),1h 29m,Crime
+423. Brattt,4.7, (67),1h 57m,Crime
+424. Hyde Out,6.8, (20),N/A,Crime
+425. Tiger Wolf Rabbit,6.3, (478),2h 6m,Crime
+426. Common Sense,2.5, (20),1h 8m,Crime
+427. Maloney - Die ersten drei haarsträubenden Fälle,6.7, (76),1h 38m,Crime
+428. Rebel,3.1, (65),1h 40m,Crime
+429. Who Killed Terrance Brown?,N/A,N/A,1h 35m,Crime
+430. Chithini,6.0, (551),2h 31m,Crime
+431. Wieczór kawalerski,4.8, (436),1h 25m,Crime
+432. Rock,3.4, (11),N/A,Crime
+433. Dirty Thirty,N/A,N/A,1h 36m,Crime
+434. The Troll Hunter,N/A,N/A,1h 22m,Crime
+435. Who Killed Angel Adams?,6.2, (22),1h 16m,Crime
+436. Tschugger - Der Lätscht Fall,8.1, (163),2h 27m,Crime
+"437. Fallen Leaves, Broken Lighters",7.7, (7),1h 36m,Crime
+438. Blackia 2,5.9, (125),2h 12m,Crime
+439. Raavsaheb,8.4, (7),2h 18m,Crime
+440. Scopophobia,5.9, (46),1h 40m,Crime
+441. The Last Vendetta,N/A,N/A,N/A,Crime
+442. Nico,8.3, (45),1h 49m,Crime
+443. M30 OXY,8.9, (13),N/A,Crime
+444. Shadows of Redemption,N/A,N/A,1h 22m,Crime
+445. Get Close 2,5.7, (46),N/A,Crime
+"446. Bullets, Brothers and Blood",7.8, (14),1h 25m,Crime
+447. Martingale,5.4, (105),1h 43m,Crime
+448. Muroi Shinji: Yaburezaru Mono,7.7, (7),1h 55m,Crime
+449. Murder in the Village: Who Killed the Doctor's Wife?,5.7, (64),N/A,Crime
+450. ¿Quién Mató al Patrón?,5.1, (7),N/A,Crime
+451. Best Man Dead Man,6.9, (8),1h 23m,Crime
+452. Secret Home,8.3, (148),1h 57m,Crime
+453. Vampire's House of Cain,4.0, (17),N/A,Crime
+454. Con Queens,5.8, (18),1h 20m,Crime
+455. Porch Pirates,5.0, (102),1h 47m,Crime
+456. Jafaican,N/A,N/A,1h 38m,Crime
+457. Accident or Conspiracy: Godhra,7.4, (780),2h 13m,Crime
+458. Ulikkipadda Uppada,N/A,N/A,N/A,Crime
+459. Maven,9.5, (37),2h 15m,Crime
+460. Lipstick on the Glass,4.6, (12),1h 56m,Crime
+461. Welcome to the Game,5.8, (62),1h 30m,Crime
+462. Thankamani,4.6, (229),2h 36m,Crime
+463. Three Old Boys,4.8, (97),1h 48m,Crime
+464. Castillo,8.1, (33),2h 8m,Crime
+465. Beneath the Fold,8.0, (23),1h 20m,Crime
+466. The Journalist,N/A,N/A,N/A,Crime
+467. The Good Loan Sharks,5.0, (75),2h 2m,Crime
+468. Game Over,5.7, (20),1h 14m,Crime
+469. Chacaleria,8.1, (418),1h 56m,Crime
+470. CHAAW: Chapter 3 - Christmas Time Is Here,7.9, (475),1h 12m,Crime
+471. Lesní vrah,4.2, (78),1h 18m,Crime
+472. First Rites,7.0, (5),1h 54m,Crime
+473. Gde nashi dengi?,7.6, (9),1h 16m,Crime
+474. Raja Rani,9.3, (100),2h 14m,Crime
+475. Coin of Fate,N/A,N/A,1h 19m,Crime
+476. West End Murders,7.0, (15),N/A,Crime
+477. The Brokenhearted,7.9, (23),N/A,Crime
+478. Gam Gam Ganesha,5.3, (309),2h 20m,Crime
+479. Ryding Durty,8.9, (8),N/A,Crime
+480. Jada,N/A,N/A,N/A,Crime
+481. Lorry Chapter-1,5.8, (2.4K),3h 3m,Crime
+482. Kala Ratri,6.8, (15),2h 2m,Crime
+483. PT Sir,6.8, (1.7K),2h 10m,Crime
+484. Jama,6.3, (16),1h 11m,Crime
+485. Haunting Trophies,7.7, (66),2h 30m,Crime
+486. We Are Tourists,N/A,N/A,1h 37m,Crime
+487. Dank Frank,N/A,N/A,1h 22m,Crime
+488. Myall Creek Day of Justice,6.4, (17),1h 18m,Crime
+489. Below the Rim,5.0, (16),1h 29m,Crime
+490. Tricks,6.6, (10),N/A,Crime
+491. Kiyma: Orman Kanunlari,4.3, (35),1h 21m,Crime
+492. The Notorious Finster,6.5, (88),N/A,Crime
+493. Villain - Life of a Gangster,8.9, (156),2h 21m,Crime
+494. Tiempo de Pagar,7.4, (48),1h 3m,Crime
+495. Dark Deceptions,6.2, (36),1h 22m,Crime
+496. The Bottom Line,6.4, (11),1h 47m,Crime
+497. Telekinesis,5.9, (60),1h 46m,Crime
+498. Whatever It Takes,8.3, (14),1h 33m,Crime
+499. Pop the Pickel,N/A,N/A,1h 20m,Crime
+500. RapeD,7.0, (28),1h 45m,Crime
+501. Sangharshana,8.2, (1.6K),1h 42m,Crime
+502. Bond of Justice: Kizuna Part II - Judgement,N/A,N/A,1h 28m,Crime
+503. The Cold Father,7.0, (17),N/A,Crime
+504. Shadows of Betrayal: Chronicles of Ian Blair,7.3, (12),1h 5m,Crime
+505. The Bitter Sugar,6.8, (9),N/A,Crime
+506. Paraagan,N/A,N/A,N/A,Crime
+507. Super Vixens 6,N/A,N/A,1h 13m,Crime
+508. Vojna policajtov,6.5, (339),2h 30m,Crime
+509. Wicked Season,5.4, (35),N/A,Crime
+510. Valleyheart,8.8, (37),1h 38m,Crime
+511. Goon Squad,6.2, (19),N/A,Crime
+512. Raqeeb Pashto New Film,N/A,N/A,2h 18m,Crime
+513. Pepe,5.0, (490),2h 6m,Crime
+514. Don't Love,7.9, (1.5K),2h 57m,Crime
+515. Muzhskoe slovo,6.5, (460),1h 34m,Crime
+516. Skiptrace,N/A,N/A,1h 20m,Crime
+517. Atlanta 10.02,5.3, (14),45m,Crime
+518. Aaro,4.5, (13),2h,Crime
+519. Gossip to Die For,5.3, (81),1h 34m,Crime
+520. Rhino Man,8.8, (41),1h 36m,Crime
+521. Indelebile,N/A,N/A,N/A,Crime
+522. Saint Michael of the City,8.0, (31),N/A,Crime
+523. Untouchable,4.6, (87),1h 52m,Crime
+524. Rangeet,N/A,N/A,N/A,Crime
+525. Dragnet Lost Episodes - TV's Greatest Police Crime Series,N/A,N/A,2h 20m,Crime
+526. Sounds of the Streets,N/A,N/A,N/A,Crime
+527. ONENESS,9.2, (16),1h 55m,Crime
+528. Even the Score,5.4, (16),N/A,Crime
+529. G - 21 scener från Gottsunda,7.0, (183),1h 20m,Crime
+530. Niyathi,6.8, (174),1h 53m,Crime
+531. Jog 101,6.5, (496),1h 47m,Crime
+532. Gli Imprevisti,N/A,N/A,N/A,Crime
+533. Kokuhaku Confession,5.6, (147),1h 14m,Crime
+534. East Bay Confidential,N/A,N/A,18+,Crime
+535. La mort viendra,6.0, (41),1h 41m,Crime
+536. Nelma Kodama: The Queen of Dirty Money,5.5, (184),1h 34m,Crime
+537. Desperate Sniper,N/A,N/A,1h 26m,Crime
+538. Dark World,4.6, (15),2h 15m,Crime
+539. Bottom of a Glass Blues,N/A,N/A,1h 41m,Crime
+540. The Real Story of January 6: Part 2 - The Long Road Home,6.2, (29),1h 30m,Crime
+541. Paarijathaparvam,7.5, (2.3K),2h 13m,Crime
+542. The 6th,N/A,N/A,N/A,Crime
+543. The London Underground Killer,4.7, (91),1h 31m,Crime
+544. Marine Drive,9.5, (49),1h 45m,Crime
+545. Crime Reel,7.5, (141),1h 51m,Crime
+546. Hani,N/A,N/A,1h 13m,Crime
+547. Dream Lock,8.6, (21),1h 40m,Crime
+548. Nietzsche's Umbrella,8.7, (21),1h 26m,Crime
+549. Helen Razor,4.0, (6),N/A,Crime
+550. Evil Among Us: The Grim Sleeper,6.4, (30),N/A,Crime
+551. Yaa Devi Sarva Bhuteshu,8.7, (8),1h 59m,Crime
+552. Break War,2.4, (14),1h 26m,Crime
+553. Lady Thug,4.4, (25),N/A,Crime
+554. A Question of Guilt,6.4, (20),N/A,Crime
+555. The Housewife and the Hustler 2: The Reckoning,6.5, (44),1h 34m,Crime
+556. Light House,N/A,N/A,1h 48m,Crime
+557. Koresha,3.0, (63),1h 26m,Crime
+558. Los Alamos,N/A,N/A,1h 31m,Crime
+559. Red Night at Skye's,N/A,N/A,1h 22m,Crime
+560. Vergüenza,6.9, (23),1h 43m,Crime
+561. Nero,N/A,N/A,1h 45m,Crime
+562. The Essex Boys Tapes,5.7, (8),N/A,Crime
+563. Lipstick,6.3, (27),2h 25m,Crime
+564. What Lies Within,5.3, (13),1h 30m,Crime
+565. Diari de la meva sextorsió,6.5, (52),1h 4m,Crime
+566. Meitantei Conan Bâsasu Kaitô Kiddo,6.1, (156),1h 21m,Crime
+567. Grey Games,7.5, (1.1K),2h 1m,Crime
+568. Dark Forest,N/A,N/A,N/A,Crime
+569. Buenas noches,N/A,N/A,1h 31m,Crime
+570. Above the Trees,8.2, (11),2h 5m,Crime
+571. Landkrimi: Steirergift,6.3, (67),1h 30m,Crime
+572. Vanished: The Lucie Blackman Mystery,N/A,N/A,N/A,Crime
+573. Kenda,8.9, (20),2h 15m,Crime
+574. Midnight Taxi,7.5, (34),N/A,Crime
+575. Aranam,7.5, (406),2h 7m,Crime
+576. Opportunity,8.9, (90),1h 36m,Crime
+577. Saajish the Conspiracy,N/A,N/A,1h 35m,Crime
+578. The Sin of Flowers,N/A,N/A,N/A,Crime
+579. GATAO: Like Father Like Son,6.8, (67),1h 40m,Crime
+580. 4N6,9.7, (61),1h 57m,Crime
+581. Mafia Temptation,N/A,N/A,1h 22m,Crime
+582. Mafia,N/A,N/A,N/A,Crime
+583. The Victims,5.9, (82),1h 39m,Crime
+584. Varchasva,N/A,N/A,N/A,Crime
+585. Vallavan Vaguthadhada,6.5, (56),1h 44m,Crime
+586. Salvajes,5.6, (59),1h 30m,Crime
+587. SMB-plush presents trick or death,8.8, (16),2h,Crime
+588. Who Do You Trust?,3.8, (39),1h 36m,Crime
+589. Blue Christmas,5.6, (21),1h 19m,Crime
+590. Netru Indha Neram,5.6, (136),2h 20m,Crime
+591. Charlotte Link - Ohne Schuld,5.5, (41),1h 29m,Crime
+592. We Came to Wreck Everything,N/A,N/A,N/A,Crime
+593. Rancor,7.2, (33),1h 23m,Crime
+594. Laandhar,4.1, (96),1h 57m,Crime
+595. Leaf Life,N/A,N/A,N/A,Crime
+596. Water Mafia,9.2, (12),45m,Crime
+597. The Kills,8.8, (9),1h 10m,Crime
+598. Jalandhara,9.2, (545),1h 50m,Crime
+599. Jin Qian Bao Lei,3.4, (13),N/A,Crime
+600. Walk the Line,5.5, (94),1h 55m,Crime
+601. Tikri Farai,7.9, (24),N/A,Crime
+602. Agontuk,5.2, (21),2h 5m,Crime
+603. Then Came the Bottle Girls,N/A,N/A,1h 19m,Crime
+604. The Hole Story,N/A,N/A,1h 27m,Crime
+605. Dai jia fa de ren,5.5, (57),2h 1m,Crime
+606. The Stix,7.1, (31),2h 3m,Crime
+607. Evidence,9.4, (209),N/A,Crime
+608. I Awoke Early the Day I Died,N/A,N/A,1h 30m,Crime
+609. Memphganistan,N/A,N/A,1h 51m,Crime
+610. Passagrana,6.5, (126),1h 40m,Crime
+611. Mun Kaupunki,6.6, (22),1h 45m,Crime
+612. Jaspal,7.3, (28),1h 46m,Crime
+613. Guxim,7.7, (34),1h 15m,Crime
+614. The Final List,N/A,N/A,1h 47m,Crime
+615. Molar,N/A,N/A,2h 15m,Crime
+616. Scapegoat,7.0, (22),1h 25m,Crime
+617. Fatal Dispatch,6.7, (11),N/A,Crime
+618. More Than the Streets,N/A,N/A,N/A,Crime
+619. The Cold Ground,N/A,N/A,2h 32m,Crime
+620. Rupaiya : The Conclusion,N/A,N/A,45m,Crime
+621. Yathabhava,8.3, (28),2h 7m,Crime
+622. The Lick,9.2, (12),N/A,Crime
+623. Die Bloedhonde,6.3, (10),1h 37m,Crime
+624. The Storm,N/A,N/A,1h 38m,Crime
+625. Risky Business,7.7, (89),1h 47m,Crime
+626. Bigul,9.3, (46),2h 24m,Crime
+627. Thirsty for Likes,4.0, (38),46m,Crime
+628. The AI Dharma Story,3.3, (1.1K),1h 29m,Crime
+629. Halfway House Series,N/A,N/A,1h 40m,Crime
+630. Historias invisibles,6.4, (27),1h 50m,Crime
+631. Ugravatara,7.9, (552),2h 2m,Crime
+632. Routa,6.5, (30),2h 7m,Crime
+633. The Film Café,N/A,N/A,N/A,Crime
+634. Novyy god v Beryozovke,7.1, (99),1h 34m,Crime
+635. Nu Jiang,N/A,N/A,1h 46m,Crime
+636. Real Estate Sisters,4.8, (17),1h 24m,Crime
+637. REES,6.5, (25),N/A,Crime
+638. Necrophile,N/A,N/A,N/A,Crime
+639. Dhadaam,N/A,N/A,1h 54m,Crime
+640. My Home Hero the Movie,5.5, (6),1h 57m,Crime
+641. Malam Pertobatan,6.8, (11),1h 21m,Crime
+642. The Deal,8.5, (26),2h 10m,Crime
+643. Seeruwen,5.3, (9),N/A,Crime
+644. Thozhar Che Guevara,5.1, (37),2h,Crime
+645. Pungut,6.7, (11),1h 40m,Crime
+646. Kaçkin,7.7, (8),1h 44m,Crime
+647. Liebling Kreuzberg 2.0,5.1, (50),1h 29m,Crime
+648. Bayamariya Brammai,8.8, (25),1h 28m,Crime
+649. Push,4.7, (10),N/A,Crime
+650. The Station Strangler,N/A,N/A,1h 39m,Crime
+651. Bloody Money,N/A,N/A,1h 21m,Crime
+652. Pink Butterfly,5.7, (55),1h 49m,Crime
+653. Los Justos,6.4, (73),1h 19m,Crime
+654. Abnormal: Buas,5.6, (26),1h 30m,Crime
+655. Soch - A perception,8.3, (39),N/A,Crime
+656. Dheera Samrat,9.8, (99),2h 3m,Crime
+657. Robbin' Hoods,N/A,N/A,N/A,Crime
+658. Common Creed: Trafficking,6.7, (8),1h 46m,Crime
+659. La Reserva,N/A,N/A,1h 44m,Crime
+660. Bogus Phone Operators,8.8, (6),N/A,Crime
+661. Blue Ice,8.8, (23),N/A,Crime
+662. Insurance Jimmy,6.9, (147),1h 50m,Crime
+663. A Place Under the Sun,9.2, (34),1h 50m,Crime
+664. Sharma & Ambani,9.1, (183),1h 44m,Crime
+665. Gumbo 2,6.8, (11),N/A,Crime
+666. La Tamalera,8.2, (9),1h 55m,Crime
+667. Blood Dried Hands,5.4, (35),1h 55m,Crime
+668. The Walk of Rufus 2 (THEODIS),N/A,N/A,N/A,Crime
+669. Conviction,7.0, (36),1h 37m,Crime
+670. Three Days or Else,8.2, (25),N/A,Crime
+671. Sniper Elite: Nanocrisis,N/A,N/A,1h 22m,Crime
+672. Kunstroof,7.0, (43),1h 42m,Crime
+673. Dangerous Rumors,7.5, (52),N/A,Crime
+674. No Loose Ends,6.7, (9),1h 8m,Crime
+675. Product the Movie: Welcome to Santa Monica,N/A,N/A,N/A,Crime
+676. Vipers,N/A,N/A,1h 10m,Crime
+677. Shades of Sapphire,7.8, (9),1h 17m,Crime
+678. Siragan,7.0, (152),2h 10m,Crime
+679. Mukhya Gamanika,8.7, (2.1K),2h 5m,Crime
+680. Find Me,5.0, (21),N/A,Crime
+681. The Ties That Bind,N/A,N/A,N/A,Crime
+682. Firewire Sniper,N/A,N/A,1h 24m,Crime
+683. Minnesota v. We the People,N/A,N/A,55m,Crime
+684. Theppa Samudram,7.4, (1.6K),2h 13m,Crime
+685. Lie Du,N/A,N/A,1h 47m,Crime
+686. The Great British Heist,6.0, (9),N/A,Crime
+687. Duplicitous Minds,N/A,N/A,N/A,Crime
+688. Love Inside the Drug Game,N/A,N/A,1h 12m,Crime
+689. The Place Between,N/A,N/A,1h 12m,Crime
+690. Up North,N/A,N/A,N/A,Crime
+691. Snowstorm,N/A,N/A,1h 31m,Crime
+692. Marty's Big Poker Night,N/A,N/A,1h 23m,Crime
+693. The Siege: Archangel One,N/A,N/A,N/A,Crime
+694. The Legend of DOC MAYS,N/A,N/A,1h 27m,Crime
+695. Something of Value,N/A,N/A,1h 30m,Crime
+696. Black Girl Fatal,N/A,N/A,2h 2m,Crime
+697. Out of Spite,N/A,N/A,N/A,Crime
+698. Public Defender,8.0, (18),N/A,Crime
+699. Iron Rule 2,N/A,N/A,50m,Crime
+700. Butterfly Parade,7.6, (11),N/A,Crime
+701. If Tomorrow Never Comes,N/A,N/A,1h 49m,Crime
+702. Aloha Malandro,N/A,N/A,1h 11m,Crime
+703. Blind Escape,N/A,N/A,1h 24m,Crime
+704. Magnet,N/A,N/A,2h 41m,Crime
+705. Hocus Focus,7.9, (19),1h 25m,Crime
+706. Iravinil Aatam Par,3.5, (156),N/A,Crime
+707. Mothers of Chibok,N/A,N/A,1h 28m,Crime
+708. Sleepy,N/A,N/A,N/A,Crime
+709. Sharp Instinct: Volume II,N/A,N/A,1h 53m,Crime
+710. Miss Merkel - Ein Uckermark-Krimi 2,6.4, (15),N/A,Crime
+711. Slapes,6.8, (31),1h 22m,Crime
+712. Gull Lake Vice II: The Delusion Continues,8.2, (16),58m,Crime
+713. Weekend with Molly,N/A,N/A,1h 30m,Crime
+714. Tatkshan,8.4, (20),N/A,Crime
+715. Jimmy's Friends,7.0, (11),1h 34m,Crime
+716. Mina and the Radio Bandits,7.3, (44),1h 50m,Crime
+717. Your Curse,2.7, (15),N/A,Crime
+718. V pogone za kamnem,N/A,N/A,1h 35m,Crime
+719. Innocent Shots,2.2, (18),N/A,Crime
+720. An Ordinary Killer,N/A,N/A,N/A,Crime
+721. His Truth Her Truth the Truth,N/A,N/A,1h 34m,Crime
+722. Detective Janus Bifrons,N/A,N/A,N/A,Crime
+723. The Burned Hand,8.0, (12),1h 25m,Crime
+724. Section 302 - Aynamohol,N/A,N/A,55m,Crime
+725. Víctimas de sus amores,N/A,N/A,N/A,Crime
+726. AK47,7.2, (14),2h 26m,Crime
+727. Blitz,7.2, (8),6m,Crime
+728. Alchemy of Solitude,N/A,N/A,N/A,Crime
+729. Yurka,4.1, (29),1h 25m,Crime
+730. Jujji,N/A,N/A,1h 13m,Crime
+731. 5D,8.8, (577),2h 9m,Crime
+732. So It Goes,3.3, (19),1h 17m,Crime
+733. Pinwheelz,7.8, (15),N/A,Crime
+734. Play It Smart,N/A,N/A,1h 50m,Crime
+735. Chhapa,N/A,N/A,1h 6m,Crime
+736. Gally Gang Stars,9.0, (2K),2h 37m,Crime
+737. Downfall of the Crypto King (theatrical feature),6.2, (27),1h 30m,Crime
+738. El Junior Del Patron,7.9, (7),1h 32m,Crime
+739. Shina,7.5, (7),1h 38m,Crime
+740. A Reel Heist,5.2, (58),N/A,Crime
+741. I'm Seeing Things,N/A,N/A,54m,Crime
+742. Ata Nirjon Duporiya,8.0, (10),1h 43m,Crime
+743. Case #111-878,N/A,N/A,N/A,Crime
+744. Ab Hoga Insaaf,N/A,N/A,N/A,Crime
+745. All Suspects,3.6, (18),1h 36m,Crime
+746. Ain't Two Men the Same,N/A,N/A,N/A,Crime
+747. Deshakkaran,N/A,N/A,2h 3m,Crime
+748. Agent Jayne,7.3, (259),N/A,Crime
+749. Hard Guy Sniper,N/A,N/A,1h 27m,Crime
+750. Waterdrop,N/A,N/A,1h 48m,Crime
+751. The Mother God,N/A,N/A,N/A,Crime
+752. Killcon,9.5, (14),31m,Crime
+"753. Compa, me gusta su vieja",5.5, (13),1h 26m,Crime
+754. Uno Sir,6.4, (43),1h 46m,Crime
+755. A Valentine's Day,8.4, (9),2h 6m,Crime
+756. Dead Name,9.0, (11),1h 24m,Crime
+757. Vengeful,6.1, (18),1h 40m,Crime
+758. The Codfather,N/A,N/A,1h 30m,Crime
+759. Lawrence,N/A,N/A,N/A,Crime
+760. Beauty Grace Malice,7.7, (43),1h 21m,Crime
+761. Po du xing dong,6.8, (5),1h 19m,Crime
+762. Mystery Creek,N/A,N/A,1h 54m,Crime
+763. Perpetrators in Government Systems,N/A,N/A,N/A,Crime
+764. Full Clip for a Snitch,3.9, (18),1h 15m,Crime
+765. 20.10.20 - Flugten Fra Herstedvester,N/A,N/A,N/A,Crime
+766. It's a Free Country,N/A,N/A,2h,Crime
+767. The Reservoir Dogs,N/A,N/A,N/A,Crime
+768. Troubled Mystic,N/A,N/A,N/A,Crime
+769. Beautifully Broken People,8.7, (8),1h 15m,Crime
+770. Krouryam,N/A,N/A,1h 37m,Crime
+771. Princess of the Trap House,N/A,N/A,1h 20m,Crime
+"772. The Actor, the Nurse, & The Cryptid",N/A,N/A,2h 17m,Crime
+773. Black Gold,N/A,N/A,1h 17m,Crime
+774. Rangeli,9.4, (93),2h 20m,Crime
+775. Art of War,N/A,N/A,N/A,Crime
+776. Crumbling Castle,N/A,N/A,1h 9m,Crime
+777. Ato Kwabena,N/A,N/A,1h 34m,Crime
+778. Butler Under Fire,N/A,N/A,N/A,Crime
+779. Her Majesty the Queen: Behind Closed Doors,N/A,N/A,1h 8m,Crime
+780. Low Budget Heist,N/A,N/A,1h 52m,Crime
+781. Ca$$$hing Out,N/A,N/A,1h 30m,Crime
+782. Rescue on One's Own,N/A,N/A,N/A,Crime
+783. Jason's World,N/A,N/A,58m,Crime
+784. Blood & Betrayal,N/A,N/A,N/A,Crime
+785. Vanity Flaw,N/A,N/A,N/A,Crime
+786. Lolipop Gang,3.6, (6),1h 30m,Crime
+787. Grant Us Eyes,N/A,N/A,51m,Crime
+788. Pinnil Oral,6.0, (113),2h 7m,Crime
+789. Dues Paid,N/A,N/A,1h 45m,Crime
+790. Abduction Chronicles,8.6, (35),2h 6m,Crime
+791. The Lost Man,N/A,N/A,1h 30m,Crime
+792. Old Wild Mob,N/A,N/A,N/A,Crime
+793. Ingu Mirugangal Vaazhum Idam,6.2, (14),1h 48m,Crime
+794. Leha,2.3, (42),1h 38m,Crime
+795. Tres Cruces,N/A,N/A,N/A,Crime
+796. Spending Some Time Together,6.9, (28),2h 26m,Crime
+797. Fierce Hunt,N/A,N/A,1h 32m,Crime
+798. Hollyland,N/A,N/A,50m,Crime
+799. Chivaraku Migiledi,N/A,N/A,1h 3m,Crime
+800. Franky Loses It,N/A,N/A,9m,Crime
+801. The Informant,N/A,N/A,N/A,Crime
+802. Detroit Ransom,6.4, (10),1h 16m,Crime
+803. Namak,4.5, (13),1h 15m,Crime
+804. A Hustler's Son 2,N/A,N/A,N/A,Crime
+805. Dawgz Life,8.0, (11),2h 23m,Crime
+806. Two Old Fellas,N/A,N/A,1h 58m,Crime
+807. El Cartel De Teresa,8.0, (9),1h 36m,Crime
+808. Falsos Amigos,N/A,N/A,1h 53m,Crime
+809. Blood Suckaz,4.2, (6),N/A,Crime
+810. 7vens Law,9.4, (20),1h 8m,Crime
+811. EdgeX,N/A,N/A,2h 9m,Crime
+812. Traitor,N/A,N/A,1h 30m,Crime
+813. L.A. Minute,N/A,N/A,R,Crime
+814. Yan Hu Ji Hua,N/A,N/A,1h 30m,Crime
+815. The Stooges Cigarette,N/A,N/A,N/A,Crime
+"816. Fear, Forget My Name",N/A,N/A,N/A,Crime
+817. Pitfall,N/A,N/A,N/A,Crime
+818. Coeval,N/A,N/A,1h 30m,Crime
+819. Bullets N Love,N/A,N/A,1h 21m,Crime
+820. Order and Control,N/A,N/A,N/A,Crime
+821. Kapsula,N/A,N/A,46m,Crime
+822. The Last Visitor,N/A,N/A,N/A,Crime
+823. Disengaged Soldiers,9.0, (6),N/A,Crime
+824. Susan,N/A,N/A,1h 18m,Crime
+825. Bhediya: The Hunter,N/A,N/A,2h 5m,Crime
+826. Corpórea,5.3, (7),N/A,Crime
+827. Samhain,N/A,N/A,N/A,Crime
+828. Prem Ni Pathshala,8.5, (7),N/A,Crime
+829. Duelo De Capos,6.7, (21),1h 23m,Crime
+830. Forgive My Truth,N/A,N/A,N/A,Crime
+831. Learn to Love Death,N/A,N/A,26m,Crime
+832. Randa Ramphal,8.5, (8),1h 10m,Crime
+833. Los Hijos De Camelia y Emilio,6.4, (21),1h 22m,Crime
+"834. Your Move, My Lady",N/A,N/A,1h 37m,Crime
+835. No Job,N/A,N/A,45m,Crime
+836. A Frozen Rage,5.2, (45),1h 55m,Crime
+837. L'uomo che disse no,N/A,N/A,56m,Crime
+838. Give Me a Ride,5.0, (16),1h 42m,Crime
+839. Little Black Submarines,6.9, (57),2h 3m,Crime
+840. Faram-Gate,N/A,N/A,55m,Crime
+841. Payback,N/A,N/A,N/A,Crime
+842. La Nueva Camelia,5.8, (12),1h 35m,Crime
+843. Runnin' from Wolves,7.2, (10),2h 13m,Crime
+844. Lines of Allegiance,N/A,N/A,2h 10m,Crime
+845. Bodyguard for Sweetheart,N/A,N/A,2h 7m,Crime
+846. Diamondz R 4Eva,N/A,N/A,N/A,Crime
+847. The Reo'Monea 2,N/A,N/A,N/A,Crime
+848. Nacida Para Vengar,8.0, (9),1h 42m,Crime
+849. Dhakkad Chhoriyaan,N/A,N/A,2h 34m,Crime
+850. L'interrogatoire,N/A,N/A,N/A,Crime
+851. Find Her,N/A,N/A,1h 22m,Crime
+852. Jackpot,N/A,N/A,N/A,Crime
+853. Respect the Shooter,N/A,N/A,56m,Crime
+854. High Rise 3: Run to Peril,N/A,N/A,N/A,Crime
+855. One-2,N/A,N/A,1h 20m,Crime
+856. Manomani,N/A,N/A,N/A,Crime
+857. The Tape Man,N/A,N/A,45m,Crime
+858. La sombra del quebrantahuesos,N/A,N/A,N/A,Crime
+859. Malvila Farm,N/A,N/A,N/A,Crime
+860. Midnight City,N/A,N/A,1h 37m,Crime
+861. Street Crimes Unit,N/A,N/A,1h 26m,Crime
+862. Broken,N/A,N/A,1h 32m,Crime
+863. City of Goons,N/A,N/A,1h 35m,Crime
+864. A-Side: Suburban,N/A,N/A,45m,Crime
+865. Picture me Roll'n (The movie),N/A,N/A,N/A,Crime
+866. Der Parkhausmord - Wer tötete Charlotte Böhringer?,8.2, (34),N/A,Crime
+867. Spectre: Shadow Night,N/A,N/A,N/A,Crime
+868. The Fog Light Action,N/A,N/A,1h 28m,Crime
+869. 12 Million Dollar Movie on Paper,N/A,N/A,N/A,Crime
+870. Mental Asiq,N/A,N/A,N/A,Crime
+871. End Counter,N/A,N/A,46m,Crime
+872. Time and Space Redemption,N/A,N/A,1h 26m,Crime
+873. Der Wien-Krimi: Blind ermittelt - Tod im Palais,6.9, (30),1h 28m,Crime
+874. Niyathi Cc1/2024,N/A,N/A,N/A,Crime
+875. Atithi,N/A,N/A,N/A,Crime
+876. For the Love of Cash 2,8.6, (10),N/A,Crime
+877. The Only Life I Know,N/A,N/A,1h 42m,Crime
+878. Ghubar,N/A,N/A,N/A,Crime
+879. Blood Brothers,N/A,N/A,N/A,Crime
+880. Poison Hunting Operation,N/A,N/A,1h 31m,Crime
+881. Makroshar Jall,N/A,N/A,N/A,Crime
+882. Mudo Kannu,7.3, (2.1K),1h 40m,Crime
+883. An Education,N/A,N/A,N/A,Crime
+884. Detective Toaster,N/A,N/A,1h 41m,Crime
+885. The Lower Ground,N/A,N/A,1h 45m,Crime
+886. Vicheyam,8.8, (14),N/A,Crime
+887. Villa 54,N/A,N/A,N/A,Crime
+888. Boyz,N/A,N/A,2h 12m,Crime
+889. Sekiz1,N/A,N/A,N/A,Crime
+890. Men of the Century (Hook or Crook),N/A,N/A,N/A,Crime
+891. The Nairobi Shuffle,N/A,N/A,1h 20m,Crime
+892. Réfractions,N/A,N/A,1h 3m,Crime
+893. The Clan,N/A,N/A,1h 16m,Crime
+894. A Day for Driving,N/A,N/A,1h 18m,Crime
+895. Las Hermanas Del Cartel,8.2, (5),1h 31m,Crime
+896. Dope Boyz,N/A,N/A,N/A,Crime
+897. Arrive Alive,N/A,N/A,N/A,Crime
+898. Middle Finger,N/A,N/A,50m,Crime
+"899. 3 Days, 3 Murders",N/A,N/A,1h 31m,Crime
+900. West Slide Story 3,N/A,N/A,1h 50m,Crime
+901. Wack,N/A,N/A,N/A,Crime
+902. OTT-Over the Target,N/A,N/A,2h 30m,Crime
+903. Karmayogam (Return Gift),N/A,N/A,1h 59m,Crime
+904. Raktdhara: The City of Blood,9.2, (10),N/A,Crime
+905. Rock Creek Express,N/A,N/A,1h 33m,Crime
+906. One More Inch,N/A,N/A,N/A,Crime
+907. CD-R,N/A,N/A,1h 10m,Crime
+908. Cubic,N/A,N/A,N/A,Crime
+909. Crime List,N/A,N/A,N/A,Crime
+910. Sisters love,N/A,N/A,N/A,Crime
+911. The Imprint of God,N/A,N/A,N/A,Crime
+912. The Criminal,N/A,N/A,51m,Crime
+913. Ruta de la fuera Frontera,N/A,N/A,1h 16m,Crime
+914. El Juego Del Poder,8.0, (9),1h 35m,Crime
+915. Run Away,N/A,N/A,N/A,Crime
+916. The Birth,N/A,N/A,N/A,Crime
+917. Ill fated,N/A,N/A,TV-14,Crime
+918. Who Could've Done This?,N/A,N/A,31m,Crime
+919. Qismat Express,N/A,N/A,1h 30m,Crime
+920. To the Rescue,N/A,N/A,1h 44m,Crime
+921. El Centinela de las Ánimas,N/A,N/A,N/A,Crime
+922. Outcome,N/A,N/A,51m,Crime
+923. Money Calling 2,N/A,N/A,N/A,Crime
+924. That One Night,N/A,N/A,1h 25m,Crime
+925. Mukhomukhi - Happily Ever After,N/A,N/A,46m,Crime
+926. Lealtad o Morir,8.2, (9),1h 27m,Crime
+927. The Rabble Story,N/A,N/A,18m,Crime
+928. One Hour in the Dark,N/A,N/A,N/A,Crime
+929. Red Tears: Unfolded,N/A,N/A,54m,Crime
+930. Karma'z A Bytch,N/A,N/A,50m,Crime
+931. Cageling,5.9, (8),1h 9m,Crime
+932. Chasing Through Time,N/A,N/A,1h 38m,Crime
+933. Wild Journey,N/A,N/A,1h 35m,Crime
+934. Montaje,N/A,N/A,N/A,Crime
+935. Maaye and Company,N/A,N/A,N/A,Crime
+936. Psycho City: The Movie,N/A,N/A,1h 57m,Crime
+937. Prayog,N/A,N/A,2h,Crime
+938. Pitha 23:23,N/A,N/A,N/A,Crime
+939. Inyori,N/A,N/A,1h 7m,Crime
+940. La Ley de mi Raza,N/A,N/A,1h 23m,Crime
+941. Janthu,N/A,N/A,N/A,Crime
+942. Verge of Deception,N/A,N/A,N/A,Crime
+943. Justiça por Amor,N/A,N/A,N/A,Crime
+944. Sonti,N/A,N/A,N/A,Crime
+945. The Bogging Probity,N/A,N/A,N/A,Crime
+946. Colourful Crime,N/A,N/A,59m,Crime
+947. Varovasti sanoi rovasti,N/A,N/A,1h 14m,Crime
+948. Moonlight Sonata No.71,N/A,N/A,1h 3m,Crime
+949. Pencil,N/A,N/A,2h 13m,Crime
+950. Wood House,N/A,N/A,45m,Crime
+951. Ahrub,N/A,N/A,N/A,Crime
+952. Innocent Looks,N/A,N/A,N/A,Crime
+953. Cold Noodle,N/A,N/A,1h 15m,Crime
+954. RK Puramlo?,N/A,N/A,N/A,Crime
+955. A Grain of Salt,N/A,N/A,N/A,Crime
+956. Senza volto - Storia di Fabrizio Maiello,N/A,N/A,1h 39m,Crime
+957. Deeper Than Us,N/A,N/A,N/A,Crime
+958. Wieselflink & Brandtgefährlich - Gefallen,N/A,N/A,1h 20m,Crime
+959. Gu Dan,N/A,N/A,N/A,Crime
+960. Orphans Rising 2024,N/A,N/A,2h,Crime
+961. Kya Ukhaad Loge?,N/A,N/A,N/A,Crime
+962. Mordkommission Calw - Klassentreffen,N/A,N/A,1h 25m,Crime
+963. Freedom of Choice,N/A,N/A,N/A,Crime
+964. Dihei,N/A,N/A,1h 21m,Crime
+965. Cravings,N/A,N/A,2h 35m,Crime
+966. 12 Hours on the Streets,N/A,N/A,1h 15m,Crime
+967. Tori: Book 1,N/A,N/A,1h 18m,Crime
+968. Plastic,N/A,N/A,1h 2m,Crime
+969. Sentence arbitraire,N/A,N/A,N/A,Crime
+970. Rainbows Over Plantation,N/A,N/A,1h 20m,Crime
+971. Into Pitch Black,N/A,N/A,N/A,Crime
+972. Bad Knight in Gotham,N/A,N/A,2h 35m,Crime
+973. 2 Days in Quito,N/A,N/A,2h 4m,Crime
